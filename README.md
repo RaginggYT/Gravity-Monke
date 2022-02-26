@@ -3,7 +3,6 @@ Customize your gravity in Gorilla Tag!
 
 Simply download the DLL, put it in your BepInEx plugins folder, load Gorilla Tag and it should work!
 
-To change the gravity, go into the config file and change the "Gravity" value. 
-If the game is loaded when you do this, you will need to turn the mod off on the Mod Status tab or Haunted Mod Menu, then turn it back on.
+To change the gravity, go over to the computer and click Enter on GravityMonke, then use the Left and Right arrows to change the number. 
 
-Computer Interface support will come out in the future.
+IMPORTANT: Any number above 0 (1, 2, etc) will make you constantly float upwards.
