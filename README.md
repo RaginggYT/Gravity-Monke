@@ -8,6 +8,8 @@ IMPORTANT! Before doing any of the things below, open the Gravity Monke view on 
 To change the gravity, go over to the computer and click Enter on GravityMonke, then use the Left and Right arrows to change the number. 
 Hold down the primary button on your right to controller to toggle Zero Gravity
 
+Hold the Left Trigger and press the Secondary Button on your Right Controller to reset your Gravity to the Default. (Set the Defualt on the Computer)
+
 To change your gravity without the computer, hold down the trigger on the left controller and use X/Y to adjust the gravity.
 Holding down the left trigger also creates a UI on the back of your left hand that shows your gravity.
 
